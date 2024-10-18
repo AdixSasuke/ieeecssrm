@@ -17,7 +17,7 @@ const Front = () => {
                 placeholder='Email' 
                 className='w-full rounded-full py-2 md:py-3 text-sm md:text-base px-4 font-agrandir bg-[#110F0F] border border-white outline-none focus:border-[#EB9062] focus:ring-1 focus:ring-[#EB9062]' 
               />
-              <button className='font-agrandir text-sm md:text-base px-6 py-2 md:px-8 md:py-3 rounded-full bg-[#EB9062] font-medium'>Send</button>
+              <button className='font-agrandir text-sm md:text-base px-6 py-2 md:px-8 md:py-3 rounded-full hover:bg-[hsl(20,77%,60%)] bg-[#ea8f61] font-medium'>Send</button>
             </div>
         </div>
     </div>
